@@ -8,4 +8,5 @@
 *quitar el eliminar y colocar desactivar(ok)
 *gestor de base de datos,poo,mvc,la diferencia entre mysqllite y pdo (ok)
 *hacer pruebas requiere, include para evitar tanto codigo a la hora de repetir trozos de codigo.
+*en el botón editar redireccionar a lista de usuarios
 
